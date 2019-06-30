@@ -8,7 +8,7 @@ _A simple Tetris game that drops block shapes down and board while a user tries 
 
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| The program will create a game board canvas  | Height = 800 weight = 480 | Creates canvas|
+| The program will create a game board canvas  | Height = 800 width = 480 | Creates canvas|
 | The program will randomly generate random block shapes | Pull random shape out of an array | place shape on the game canvas |
 | The program will slowly drop game piece down the canvas | player.pos.y++ | block shape drops one position |
 | The user and can rotate the block | UpArrow key | block rotates 90 degrees |
@@ -38,7 +38,8 @@ _JS_
 _Node JS_
 _CSS_
 _HTML_
-
+_Firebase_
+_Heroku_
 
 ### License
 
